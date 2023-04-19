@@ -5,7 +5,7 @@
         "sn": "VOG51NWJDWP6S",
         "mac1": "FCAA14521031"
         "DiskIdxMap": "00",
-        "SataPortMap": "2",
+        "SataPortMap": "6",
         "SasIdxMap":  "0"
     },
     "synoinfo": {},
