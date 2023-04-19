@@ -221,11 +221,30 @@ Actions: build, auto, run, clean, add, del, sn, pat
 
 Available platform versions:
 ---------------------
-${AVAILABLE_IDS}
+ds1621p-7.0.1-42218
+ds1621p-7.1.0-42661
+ds2422p-7.0.1-42218
+ds3615xs-6.2.4-25556
+ds3615xs-7.0.1-42218
+ds3615xs-7.1.0-42661
+ds3617xs-7.0.1-42218
+ds3617xs-7.1.0-42661
+ds3622xsp-7.0.1-42218
+ds3622xsp-7.1.0-42661
+ds918p-6.2.4-25556
+ds918p-7.0.1-42218
+ds918p-7.1.0-42661
+ds918p-7.1.1-42962
+ds920p-7.0.1-42218
+ds920p-7.1.0-42661
+dva3221-7.0.1-42218
+dva3221-7.1.0-42661
 
 Custom Extensions:
 ---------------------
-${EXTENSION_IDS}
+jumkey.acpid2
+thethorgroup.boot-wait
+thethorgroup.virtio
 
 Check global_settings.json for settings.
 EOF
