@@ -4,6 +4,9 @@
         "vid": "0x0951",
         "sn": "VOG51NWJDWP6S",
         "mac1": "FCAA14521031"
+        "DiskIdxMap": "00",
+        "SataPortMap": "2",
+        "SasIdxMap":  "0"
     },
     "synoinfo": {},
     "ramdisk_copy": {},
